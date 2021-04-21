@@ -6,7 +6,19 @@ namespace DataTypes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string phrase = "Giraffe Academy";
+            char grade = 'A';
+            int age = 30;
+            double gpa = 3.2;
+            bool isMale = true;
+
+            Console.WriteLine();
+
+
+
+
+
+            Console.ReadLine();
         }
     }
 }

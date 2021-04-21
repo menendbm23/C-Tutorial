@@ -1,0 +1,13 @@
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.exe
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.deps.json
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.runtimeconfig.json
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.runtimeconfig.dev.json
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.dll
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.csprojAssemblyReference.cache
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfoInputs.cache
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfo.cs
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.csproj.CoreCompileInputs.cache
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.dll
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+D:\VSProject\WorkingWithStrings2\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.genruntimeconfig.cache
