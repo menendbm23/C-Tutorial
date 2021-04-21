@@ -1,0 +1,7 @@
+D:\VSProject\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe.config
+D:\VSProject\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+D:\VSProject\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+D:\VSProject\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csprojAssemblyReference.cache
+D:\VSProject\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csproj.CoreCompileInputs.cache
+D:\VSProject\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+D:\VSProject\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb
