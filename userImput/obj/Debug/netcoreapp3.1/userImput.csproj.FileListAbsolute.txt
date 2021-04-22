@@ -1,0 +1,12 @@
+D:\VSProject\userImput\bin\Debug\netcoreapp3.1\userImput.exe
+D:\VSProject\userImput\bin\Debug\netcoreapp3.1\userImput.deps.json
+D:\VSProject\userImput\bin\Debug\netcoreapp3.1\userImput.runtimeconfig.json
+D:\VSProject\userImput\bin\Debug\netcoreapp3.1\userImput.runtimeconfig.dev.json
+D:\VSProject\userImput\bin\Debug\netcoreapp3.1\userImput.dll
+D:\VSProject\userImput\bin\Debug\netcoreapp3.1\userImput.pdb
+D:\VSProject\userImput\obj\Debug\netcoreapp3.1\userImput.AssemblyInfoInputs.cache
+D:\VSProject\userImput\obj\Debug\netcoreapp3.1\userImput.AssemblyInfo.cs
+D:\VSProject\userImput\obj\Debug\netcoreapp3.1\userImput.csproj.CoreCompileInputs.cache
+D:\VSProject\userImput\obj\Debug\netcoreapp3.1\userImput.dll
+D:\VSProject\userImput\obj\Debug\netcoreapp3.1\userImput.pdb
+D:\VSProject\userImput\obj\Debug\netcoreapp3.1\userImput.genruntimeconfig.cache
