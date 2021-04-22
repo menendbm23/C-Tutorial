@@ -1,0 +1,13 @@
+D:\VSProject\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.exe
+D:\VSProject\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.deps.json
+D:\VSProject\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.runtimeconfig.json
+D:\VSProject\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.runtimeconfig.dev.json
+D:\VSProject\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.dll
+D:\VSProject\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.pdb
+D:\VSProject\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.csprojAssemblyReference.cache
+D:\VSProject\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.AssemblyInfoInputs.cache
+D:\VSProject\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.AssemblyInfo.cs
+D:\VSProject\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.csproj.CoreCompileInputs.cache
+D:\VSProject\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.dll
+D:\VSProject\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.pdb
+D:\VSProject\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.genruntimeconfig.cache
