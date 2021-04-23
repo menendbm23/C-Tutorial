@@ -1,0 +1,12 @@
+D:\VSProject\madLibsGame\bin\Debug\netcoreapp3.1\madLibsGame.exe
+D:\VSProject\madLibsGame\bin\Debug\netcoreapp3.1\madLibsGame.deps.json
+D:\VSProject\madLibsGame\bin\Debug\netcoreapp3.1\madLibsGame.runtimeconfig.json
+D:\VSProject\madLibsGame\bin\Debug\netcoreapp3.1\madLibsGame.runtimeconfig.dev.json
+D:\VSProject\madLibsGame\bin\Debug\netcoreapp3.1\madLibsGame.dll
+D:\VSProject\madLibsGame\bin\Debug\netcoreapp3.1\madLibsGame.pdb
+D:\VSProject\madLibsGame\obj\Debug\netcoreapp3.1\madLibsGame.AssemblyInfoInputs.cache
+D:\VSProject\madLibsGame\obj\Debug\netcoreapp3.1\madLibsGame.AssemblyInfo.cs
+D:\VSProject\madLibsGame\obj\Debug\netcoreapp3.1\madLibsGame.csproj.CoreCompileInputs.cache
+D:\VSProject\madLibsGame\obj\Debug\netcoreapp3.1\madLibsGame.dll
+D:\VSProject\madLibsGame\obj\Debug\netcoreapp3.1\madLibsGame.pdb
+D:\VSProject\madLibsGame\obj\Debug\netcoreapp3.1\madLibsGame.genruntimeconfig.cache
